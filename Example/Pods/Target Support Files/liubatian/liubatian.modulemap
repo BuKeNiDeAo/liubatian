@@ -1,0 +1,6 @@
+framework module liubatian {
+  umbrella header "liubatian-umbrella.h"
+
+  export *
+  module * { export * }
+}

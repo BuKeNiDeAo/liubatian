@@ -1,0 +1,6 @@
+framework module Pods_liubatian_Example {
+  umbrella header "Pods-liubatian_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
